@@ -1,5 +1,6 @@
 # Создание и запуск приложения, программирование интерфейса экранов и действий на них
 # Здесь должен быть твой код
+#kommentarii
 from kivy.app import App
 from kivy.uix.screenmanager import Screen, ScreenManager
 from kivy.uix.button import Button
